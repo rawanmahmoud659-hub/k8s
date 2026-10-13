@@ -1,0 +1,15 @@
+# Windows SMB metadata files
+*Zone.Identifier
+*Zone.Identifier:*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Rendered by the Jenkins deploy stage
+deployment.yaml

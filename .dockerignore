@@ -1,0 +1,16 @@
+.git
+.gitignore
+.dockerignore
+Dockerfile
+Jenkinsfile
+Jenkinsfile-push
+README.md
+*.pdf
+*Zone.Identifier
+k8s/
+deployment.yaml
+*.sh
+__pycache__/
+*.pyc
+.venv/
+venv/
